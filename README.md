@@ -10,18 +10,21 @@ projects.
 Introduction
 ------------
 
-Google Apps Script allows developers to extend and maniplate Google
+Google Apps Script allows developers to extend and manipulate Google
 Docs, Sheets and Forms. For those just starting with Apps Script, it
 can be useful to have a template to work from -- a framework that
 developers can learn from and modify to suit their needs.
 
-This collection hosts the following templates:
+This collection hosts the following templates. The repository is
+organized by Google service so you can quickly locate examples for a
+particular product:
 
-* Custom Functions for Sheets
-* Google Docs Add-on
-* Google Sheets Add-on
-* Google Forms Add-on
-* Script as Web App
+* **Google Docs add-on** – `google-docs/addon`
+* **Google Forms add-on** – `google-forms/addon`
+* **Google Sheets add-on** – `google-sheets/addon`
+* **Sheets custom functions** – `google-sheets/custom-functions`
+* **Sheets import data add-on** – `google-sheets/import-data`
+* **Apps Script web app** – `apps-script/web-app`
 
 
 Within these templates the following Google Apps Script concepts are
